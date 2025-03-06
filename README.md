@@ -1,4 +1,4 @@
-# Update README file with additional insights for job aspirants
+#README file with additional insights for job aspirants
 extended_readme_content = """# Indeed Job Data Analysis
 
 This project scrapes job postings from Indeed and analyzes the collected data.
